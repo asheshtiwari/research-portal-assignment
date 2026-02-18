@@ -27,8 +27,8 @@ This portal solves the problem of manually scanning through 50+ pages of earning
 | **DevOps** | Git, 
 
 ---
-Live Demo:[varcel](https://research-portal-assignment-jeerank10-6837s-projects.vercel.app/)
-Backend API: [render](https://research-portal-assignment.onrender.com/docs)
+Live Demo:[varcel](https:research-portal-assignment.vercel.app/)
+Backend API:[render](https://research-portal-assignment.onrender.com/docs)
 
 ##  How to Run Locally
 
